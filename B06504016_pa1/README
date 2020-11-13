@@ -1,0 +1,18 @@
+This is README file for Algorithm PA#1
+Author: <B06504016 ªL®a§»>
+Date:2019/10/10
+=====
+SYNOPSIS:
+
+mysort -[IS|MS|QS|HS] <input_file_name> <output_file_name>
+
+This program supports four different sorting methods: insertion sort, merge sort, quick sort and heap sort.
+=====
+DIRECTORY:
+
+bin/	  executable binary
+doc/	  reports
+lib/	  library
+src/ 	  source C++ codes
+
+======
